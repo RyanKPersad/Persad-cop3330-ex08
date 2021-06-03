@@ -5,9 +5,11 @@ import java.util.Scanner;
  */
 public class App 
 {
+    static Scanner myObj = new Scanner(System.in);
+
     public static void main( String[] args )
     {
-        Scanner myObj = new Scanner(System.in);
+
         System.out.print("How many people? ");
         String people = myObj.nextLine();
 
