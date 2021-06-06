@@ -1,8 +1,11 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Ryan Persad
+ */
 package org.example;
 import java.util.Scanner;
-/**
- *
- */
+
+
 public class App 
 {
     static Scanner myObj = new Scanner(System.in);
